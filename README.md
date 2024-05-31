@@ -1,4 +1,4 @@
-# ToDoList
+# ToDoList(with responsive design)
 Usage:
 Adding a Task: Enter the task description in the input field and click the "Add" button.
 Deleting a Task: Click the "Delete" button next to the task you want to remove.
