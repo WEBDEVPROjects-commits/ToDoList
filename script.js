@@ -4,7 +4,7 @@ document.querySelector(".content").children[1].addEventListener("click", (e) => 
     var html = `<div class="task">
     <input type="checkbox" id="checkbox" >
     <p>${x}</p>
-    <img src=".png" alt="image" class="bin-image">
+    <img src="bin.png" alt="image" class="bin-image">
     </div>`
     document.querySelector(".container").insertAdjacentHTML("beforeend", html)
     document.querySelector(".container").lastElementChild.children[2].addEventListener("click", (e) => {
